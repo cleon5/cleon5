@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Clever, I live in Colima and I'm studying<br>Software Engineering in the 8th semester.<br>I consider that I am a curious person who is passionate <br>about learning new things and I like to experiment with <br>new technologies.
+Hi, I am Clever, a junior programmer specialized in front-end development<br> with experience in technologies such as React, JavaScript, Angular, Vue, and CSS.<br>
+	I consider that I am a curious person who is passionate about learning <br>new things and I like to experiment with new technologies.
 
 
 ## 🌐 Socials:
